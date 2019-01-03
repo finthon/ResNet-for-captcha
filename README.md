@@ -1,7 +1,7 @@
 # ResNet-for-captcha
 a project to identify captcha using ResNet
 
-See the full introduction for details in https://finthon.com/python-tensorflow-cnn-captcha/
+See the full introduction for details in https://finthon.com/resnet-captcha/
 
 
 code including：
